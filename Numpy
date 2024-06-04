@@ -1,0 +1,2 @@
+Numpy video reference - 
+https://www.youtube.com/watch?v=9JUAPgtkKpI&t=3762s
